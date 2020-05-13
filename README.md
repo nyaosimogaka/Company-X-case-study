@@ -5,8 +5,7 @@ In 2018, I was invited for an interview after completion of a practical assesmen
 The practical assesment was to be done using MS-Excel, which I did successfully. I recently stumbled on the assessment and decided to replicate it using R.
 
 The Instructions are as follows:
-1. Complete the following tasks in the sheet named "Job Titles"
-a) Create Job Titles in column F. All job titles should be in the format- specialization + rank, department. Exceptions to this rule:
+1. Complete the following tasks in the sheet named "Job Titles" a) Create Job Titles in column F. All job titles should be in the format- specialization + rank, department. Exceptions to this rule:
 i. If department is Executive or rank starts contains the word ""Chief"", just use specialization + rank
 ii. If rank has the words ""Lead"" or ""Senior"", these should prefix the job title
 iii. If specialization is ""Project Management"", job title format is inverted i.e. starts with rank + specialization, department
