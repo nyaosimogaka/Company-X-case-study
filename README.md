@@ -1,6 +1,6 @@
 # Company-X-case-study
 
-In 2018, I was invited for an interview after completion of a practical assesment to demonstrate my ability for practical tasks entailed by the job offer from company X. 
+In 2018, I was invited for an interview after completion of a practical assesment that demonstrated my analytical skills. The practical assesment entailed daily tasks of the job posting from company X. 
 
 The practical assesment was to be done using MS-Excel, which I did successfully. I recently stumbled on the assessment and decided to replicate it using R.
 
