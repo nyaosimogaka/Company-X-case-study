@@ -1,2 +1,2 @@
-A Practical Data Analysis CAse Study			
+A Practical Data Analysis Case Study			
 
