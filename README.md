@@ -1,4 +1,4 @@
 # Data Analysis 
 
-A Practical Data Analysis Case Study
+A simple yet practical Data Analysis Case Study
 
